@@ -1,0 +1,8 @@
+
+ main{
+
+	sysout£¨3£©
+	sysout£¨4£©
+
+
+	}
